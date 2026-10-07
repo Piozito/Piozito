@@ -1,4 +1,4 @@
-# Hi, I'm Pio 👋
+# Hi, I'm André Pio 👋
 
 ### Software Developer | 42 Lisboa
 
