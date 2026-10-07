@@ -2,13 +2,13 @@
 
 ### Software Developer | 42 Lisboa
 
-I'm a developer recently graduated at **42 Lisboa**, focused on C programming, systems fundamentals, and writing clean, reliable software.
+I'm a software developer recently graduated from **42 Lisboa**, with a strong focus on C programming, systems fundamentals, backend development, and building reliable software from the ground up.
 
-I love learning new programming languages and doing projects both solo and with a team!
+I enjoy learning new technologies, solving technical problems, and working on projects both independently and as part of a team.
 
-* 🧠 Interested in low-level programming, game development, and Full-Stack.
+* 🧠 Interested in **backend development, systems programming, game development, and full-stack engineering**
 * 📍 Lisbon, Portugal
-* 🤝 Open to connecting with developers and exploring opportunities
+* 🤝 Open to connecting with developers and exploring new opportunities
 
 ---
 
@@ -16,11 +16,13 @@ I love learning new programming languages and doing projects both solo and with 
 
 ### 🌐 ft_transcendence
 
-**Full-Stack Real-Time Multiplayer Game (Connect Four)**
+**Full-Stack Real-Time Multiplayer Game — Connect Four**
 
-A Full-stack web application built around real-time multiplayer connect four, combining authentication, user management and a lot of settings to customize your experience with support for english, portuguese and german.
+A complete full-stack real-time multiplayer platform built around Connect Four, featuring competitive matches, AI opponents, live spectator mode, authentication, user profiles, statistics, match history, and multilingual support.
 
-**Tech:** Full-Stack Development · WebSockets · REST APIs · Authentication · Databases · Docker · Team Collaboration
+My main contribution focused on the **backend**, implementing the game logic, user management, authentication, persistent data and real-time communication between players and spectators. I also contributed to the frontend and the project's Docker-based infrastructure.
+
+**Tech:** TypeScript · NestJS · WebSockets · REST APIs · PostgreSQL · Prisma · OAuth · Docker · Docker Compose · NGINX · Team Collaboration
 
 [View Repository →](https://github.com/bbento-a/ft_transcendence)
 
@@ -30,9 +32,9 @@ A Full-stack web application built around real-time multiplayer connect four, co
 
 **3D Raycasting Engine in C**
 
-A first-person 3D game engine built from scratch in C using raycasting. The project explores the fundamentals of 3D rendering, transforming a 2D map into a real-time first-person environment.
+A first-person 3D game engine built from scratch in C using raycasting. The project explores the fundamentals of 3D rendering by transforming a 2D map into a real-time first-person environment.
 
-Implemented concepts include raycasting, player movement, collision detection, camera orientation, texture rendering, and real-time graphics.
+Implemented concepts include raycasting, player movement, collision detection, camera orientation, texture rendering, map parsing, doors, minimap rendering, and real-time graphics.
 
 **Tech:** C · Raycasting · 3D Graphics · Algorithms · Mathematics · Parsing · MiniLibX
 
@@ -54,11 +56,15 @@ The project covers command parsing and execution, pipes, redirections, environme
 
 ---
 
-## Tech Stack
+## 🛠️ Tech Stack
 
-**Languages:** C, C++, C#, TypeScript, Python
+**Languages:** C · C++ · C# · TypeScript · Python
 
-**Tools:** Git, GitHub, Make, Unix/Linux, Docker
+**Backend:** NestJS · REST APIs · WebSockets · PostgreSQL · Prisma
+
+**Frontend:** HTML · CSS · JavaScript/TypeScript
+
+**Tools & Infrastructure:** Git · GitHub · Docker · Docker Compose · NGINX · Make · Unix/Linux
 
 ---
 
@@ -66,6 +72,4 @@ The project covers command parsing and execution, pipes, redirections, environme
 
 * 💻 GitHub: [@Piozito](https://github.com/Piozito)
 * 💼 LinkedIn: [@Andre Pio](https://www.linkedin.com/in/andre-pio-/)
-* ✉️ Email: [pio.software.coding@gmail.com](MAILTO:pio.software.coding@gmail.com)
-
----
+* ✉️ Email: [pio.software.coding@gmail.com](mailto:pio.software.coding@gmail.com)
